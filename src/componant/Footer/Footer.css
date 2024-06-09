@@ -1,0 +1,19 @@
+.footer-body{
+    background-color: #212529;
+    color: azure;
+    
+}
+.text-container{
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+}
+.footer-style{
+    margin-top: 5rem;
+    text-align: center;
+
+}
+.linkStyle{
+    color: #ffffff8c;
+    text-decoration: none;
+    margin-left: 70px;
+}

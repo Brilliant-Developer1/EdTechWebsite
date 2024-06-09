@@ -1,0 +1,16 @@
+.about-style{
+    margin-top: 115px;
+}
+.about-text{
+    background-color: #212529;
+    color: aliceblue;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 40px;
+}
+.review-header{
+    font-size: 4rem;
+    
+    margin: 0 auto;
+    
+}
