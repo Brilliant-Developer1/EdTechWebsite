@@ -17,19 +17,19 @@ https://brilliant-developer-site.netlify.app/
 
 I'm a Frontend Web Developer.
 My skills :
- Expertise:
+1. Expertise:
  - HTML5, CSS3, Tailwind CSS
  - JavaScript, React JS, Next JS
  - Node JS MongoDB, Express JS
  - Chrome dev tools RESTful APIs
- Comfortable:
+2. Comfortable:
  - Bootstrap, Material UI
  - React Router, Firebase, npm, vite
- Programming Languages: 
+3. Programming Languages: 
  - JavaScript
  - Python
- Familiar: Typescript.
- Tools: VS code, GitHub, Figma.
+4. Familiar: Typescript.
+5. Tools: VS code, GitHub, Figma.
 
 
 ### Comment
