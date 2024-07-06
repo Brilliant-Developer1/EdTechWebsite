@@ -13,10 +13,10 @@ https://brilliant-developer-site.netlify.app/
 - React-router
 - React-App
 
-### About Me
+## About Me
 
 I'm a Frontend Web Developer.
-My skills :
+### My skills :
 1. Expertise:
  - HTML5, CSS3, Tailwind CSS
  - JavaScript, React JS, Next JS
